@@ -65,15 +65,15 @@ static void Main()
 ```
 
 ## 🏋 Ejercicios :
- ****Ejercicio 1: Validación de Números Primos****
+ **** 🖥️ Ejercicio 1: Validación de Números Primos****
  
 Crea un método que reciba un número entero y devuelva `true` si es primo y `false` si no lo es.
 
-**Ejercicio 2: Conversión de Temperatura**
+** 🖥️ Ejercicio 2: Conversión de Temperatura**
 
 Crea un método que reciba una temperatura en grados Celsius y devuelva la temperatura equivalente en Fahrenheit.
 
-**Ejercicio 3: Contar Palabras en una Cadena**
+** 🖥️ Ejercicio 3: Contar Palabras en una Cadena**
 
 Crea un método que reciba una cadena de texto y devuelva cuántas palabras tiene.
 
